@@ -1,0 +1,10 @@
+<h2>All Notices</h2>
+
+{% for n in data %}
+<p>
+{{n[1]}} -
+<a href="/static/uploads/{{n[2]}}">Download</a>
+</p>
+{% endfor %}
+
+<a href="/">Back Home</a>

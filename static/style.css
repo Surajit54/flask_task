@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+    margin: 0;
+}
+
+header {
+    background: #003366;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+button {
+    background: #003366;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: #003366;
+}
